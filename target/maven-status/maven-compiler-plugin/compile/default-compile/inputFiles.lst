@@ -1,0 +1,11 @@
+/home/vladimir/IdeaProjects/Samples/game_of_life/src/main/java/domain/Board.java
+/home/vladimir/IdeaProjects/Samples/game_of_life/src/main/java/Main.java
+/home/vladimir/IdeaProjects/Samples/game_of_life/src/main/java/domain/Player.java
+/home/vladimir/IdeaProjects/Samples/game_of_life/src/main/java/domain/AliveCell.java
+/home/vladimir/IdeaProjects/Samples/game_of_life/src/main/java/generate/RandomPopulator.java
+/home/vladimir/IdeaProjects/Samples/game_of_life/src/main/java/domain/Cell.java
+/home/vladimir/IdeaProjects/Samples/game_of_life/src/main/java/domain/exception/InvalidCellsException.java
+/home/vladimir/IdeaProjects/Samples/game_of_life/src/main/java/rules/GOLRule.java
+/home/vladimir/IdeaProjects/Samples/game_of_life/src/main/java/domain/DeadCell.java
+/home/vladimir/IdeaProjects/Samples/game_of_life/src/main/java/rules/Rule.java
+/home/vladimir/IdeaProjects/Samples/game_of_life/src/main/java/generate/Populator.java
