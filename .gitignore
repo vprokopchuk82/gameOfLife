@@ -100,3 +100,4 @@ fabric.properties
 src/main/resources/
 target/generated-sources/
 target/generated-test-sources/
+.idea/vcs.xml
